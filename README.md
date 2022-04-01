@@ -1,2 +1,1 @@
 # First
-print("hello word")
